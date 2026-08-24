@@ -191,8 +191,7 @@ logs/train/2T/heart-vit/cross_val/fold_1/
 
 ## Contact
 
-Questions about the code, the data, or anything else in this repository:
-s.rodriguezr2@uniandes.edu.co
+If you have any questions about the code, the data, or anything else in this repository, feel free to reach out! s.rodriguezr2@uniandes.edu.co
 
 ## Citation
 
