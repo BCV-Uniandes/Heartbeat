@@ -1,7 +1,7 @@
 # Heartbeat: a multimodal dataset of fetal echocardiography and clinical metadata for early detection of congenital heart disease
 
 Detection of congenital heart disease (CHD) from fetal echocardiography, using a Vision
-Transformer conditioned on clinical data.
+Transformer conditioned on clinical data. [[Paper](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1726484/full)]
 
 ![Heart-ViT architecture](assets/architecture.png)
 
