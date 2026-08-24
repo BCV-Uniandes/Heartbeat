@@ -113,7 +113,9 @@ Heartbeat/
 Heartbeat/
   run_train.py            train one fold
   run_eval.py             score one checkpoint on one split
+  checkpoints/            models' checkpoints
   dataloader/             per-image and per-patient datasets, transforms
+  dataset/                Heartbeat dataset
   evaluation/             inference, prediction files
   metrics/                threshold sweep and the five reported metrics
   models/                 backbone, Heart-ViT, baselines, build()
